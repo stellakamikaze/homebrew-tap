@@ -1,6 +1,6 @@
 cask "cornetta" do
-  version "0.3.4"
-  sha256 "0ab8789fdd82ea450c78806c1f35ed17d64c2ebaa469d28784c8d47e7469a63e"
+  version "0.3.5"
+  sha256 "087af3d8961acdb7dca0ccd7e7596c055a7664437b964fe896e3827ec5dabaf5"
 
   url "https://cornetta.stellakamikaze.org/downloads/Cornetta-#{version}.dmg"
   name "Cornetta"
